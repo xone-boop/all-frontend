@@ -49,8 +49,6 @@ __tests__/__snapshots__/
 *.swp
 *.swo
 *~
-.DS_Store
-Thumbs.db
 *.sublime-project
 *.sublime-workspace
 
@@ -61,6 +59,7 @@ Thumbs.db
 .Spotlight-V100
 .Trashes
 ehthumbs.db
+Thumbs.db
 Desktop.ini
 
 # Temporary files
